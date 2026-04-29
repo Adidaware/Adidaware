@@ -10,4 +10,4 @@ My focus is on creating reproducible, modular, and tested pipelines for genomic 
 * **Bioinformatics:** Nextflow, Biopython, Pandas
 * **Tools:** Docker, AWS, Git
 
-📫 **Contact:** daware.a@northeastern.edu | aditya_daware@dfci.harvard.edu | https://www.linkedin.com/in/aditya-daware/  
+📫 **Contact:** daware.a@northeastern.edu | aditya_daware@dfci.harvard.edu | https://www.linkedin.com/in/aditya-daware

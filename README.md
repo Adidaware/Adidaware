@@ -2,7 +2,7 @@
 ### Associate Computational Biologist @ Dana-Farber Cancer Institute
 ### Master of Science in Bioinformatics @ Northeastern University
 
-I am building tools at the intersection of **Biology** and **Computational**.
+I am building tools at the intersection of **Biology** and **Computation**.
 My focus is on creating reproducible, modular, and tested pipelines for genomic data.
 
 #### 🛠️ Tech Stack
